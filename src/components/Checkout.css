@@ -1,0 +1,17 @@
+.checkout {
+    padding: 20px;
+  }
+  
+  .checkout-item {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+  }
+  
+  .checkout button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }

@@ -1,0 +1,30 @@
+.product-listing {
+    padding: 20px;
+  }
+  
+  .products {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .product-card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+    width: 200px;
+    text-align: center;
+  }
+  
+  .product-card img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .cart-link {
+    display: block;
+    margin-top: 20px;
+    color: blue;
+    text-decoration: none;
+  }
